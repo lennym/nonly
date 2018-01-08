@@ -1,6 +1,6 @@
 {
   "name": "nonly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha plugin to prevent accidental only",
   "main": "index.js",
   "scripts": {
