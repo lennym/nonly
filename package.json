@@ -1,0 +1,24 @@
+{
+  "name": "nonly",
+  "version": "1.0.0",
+  "description": "Mocha plugin to prevent accidental only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennym/nonly.git"
+  },
+  "keywords": [
+    "mocha",
+    "test",
+    "only"
+  ],
+  "author": "Leonard Martin <hello@lennym.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lennym/nonly/issues"
+  },
+  "homepage": "https://github.com/lennym/nonly#readme"
+}
